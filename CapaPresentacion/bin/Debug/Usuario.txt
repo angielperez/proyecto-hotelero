@@ -1,0 +1,4 @@
+638330899137338471;;;;;;usuario;0;admin;admin123
+638332351919481857;Angie;Perez;1065826130;angielperez@unicesar.edu.co;3015143005;usuario;0;angielperez;12345
+638332547173757710;Luis ;Aponte;1065826130;ldaponte@gmail.com;3164689467;usuario;0;ldaponte;ldaponte123
+638333191943256722;Cristian;Perez;1065843702;cristian@gmail.com;3164689467;usuario;0;Cristian;Cristian123

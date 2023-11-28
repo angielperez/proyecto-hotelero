@@ -1,0 +1,130 @@
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.MenuPrincipal.resources
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___RESERVAS.Crear_Reservacion.resources
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___RESERVAS.Consultar_Reservacion.resources
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___RESERVAS.Modificar_Reservacion.resources
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___RESERVAS.Cancelar_Reservacion.resources
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___FACTURACIONES.Anula_Factura.resources
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___FACTURACIONES.Crear_Factura.resources
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___FACTURACIONES.Consultar_Factura.resources
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___HABITACIONES.Consultar_Habitacion.resources
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___HABITACIONES.Crear_Habitacion.resources
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___HABITACIONES.Modificar_Habitacion.resources
+C:\Users\carol\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___HABITACIONES.Eliminar_Habitacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___FACTURACIONES.Anula_Factura.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___FACTURACIONES.Consultar_Factura.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___FACTURACIONES.Crear_Factura.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___HABITACIONES.Crear_Habitacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___RESERVAS.Crear_Reservacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.Informe_Facturacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.Informe_Ocupacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.MenuPrincipal.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___RESERVAS.Gestionar_Reservacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___HABITACIONES.Gestionar_Habitacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___PRODUCTOS.Crear_Productos.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___PRODUCTOS.Gestionar_Productos.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.Informe_Reserva.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.Crear_Usuario.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI_USUARIOS.Gestionar_Usuario.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___TIPO_DE_HABITACION.Crear_TipoHabitacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___TIPO_DE_HABITACION.Gestionar_TipoHabitacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___FACTURACIONES.Gestionar_Factura.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___PRODUCTOS.Crear_Productos.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___PRODUCTOS.Gestionar_Productos.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___TIPO_DE_HABITACION.Crear_TipoHabitacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___TIPO_DE_HABITACION.Gestionar_TipoHabitacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.Crear_Usuario.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI_USUARIOS.Gestionar_Usuario.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.Informe_Reserva.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___FACTURACIONES.Crear_Factura.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___HABITACIONES.Gestionar_Habitacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___HABITACIONES.Crear_Habitacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___RESERVAS.Gestionar_Reservacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___RESERVAS.Crear_Reservacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.Informe_Facturacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.Informe_Ocupacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.MenuPrincipal.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.Informe_Inventario.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___FACTURACIONES.Gestionar_Factura.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___PRODUCTOS.Crear_Productos.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___PRODUCTOS.Gestionar_Productos.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___TIPO_DE_HABITACION.Crear_TipoHabitacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___TIPO_DE_HABITACION.Gestionar_TipoHabitacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.Crear_Usuario.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI_USUARIOS.Gestionar_Usuario.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.Informe_Inventario.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.Informe_Reserva.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___FACTURACIONES.Crear_Factura.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___HABITACIONES.Gestionar_Habitacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___HABITACIONES.Crear_Habitacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___RESERVAS.Gestionar_Reservacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.GUI___RESERVAS.Crear_Reservacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.Informe_Facturacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.Informe_Ocupacion.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.MenuPrincipal.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

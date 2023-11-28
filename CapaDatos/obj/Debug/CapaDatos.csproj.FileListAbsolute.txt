@@ -1,0 +1,36 @@
+C:\Users\carol\Desktop\Proyecto de aula\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\carol\Desktop\Proyecto de aula\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\carol\Desktop\Proyecto de aula\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\carol\Desktop\Proyecto de aula\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\carol\Desktop\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\carol\Desktop\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\carol\Desktop\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\carol\Desktop\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\carol\Desktop\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaDatos\obj\Debug\CapaDatos.pdb

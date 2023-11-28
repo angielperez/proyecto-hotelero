@@ -1,0 +1,44 @@
+C:\Users\carol\Desktop\Proyecto de aula\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\carol\Desktop\Proyecto de aula\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\carol\Desktop\Proyecto de aula\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\carol\Desktop\Proyecto de aula\CapaLogica\bin\Debug\CapaEntidades.dll
+C:\Users\carol\Desktop\Proyecto de aula\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\carol\Desktop\Proyecto de aula\CapaLogica\bin\Debug\CapaEntidades.pdb
+C:\Users\carol\Desktop\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\carol\Desktop\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\carol\Desktop\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\carol\Desktop\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\carol\Desktop\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaLogica\bin\Debug\CapaEntidades.dll
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaLogica\bin\Debug\CapaEntidades.pdb
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\ANGIE PEREZ\Desktop\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaLogica\bin\Debug\CapaEntidades.dll
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaLogica\bin\Debug\CapaEntidades.pdb
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\ANGIE PEREZ\Desktop\Programa Hotelero C#\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaLogica\bin\Debug\CapaEntidades.dll
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaLogica\bin\Debug\CapaEntidades.pdb
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\ANGIE PEREZ\Desktop\Angie\Programa Hotelero C#\Proyecto de aula\CapaLogica\obj\Debug\CapaLogica.pdb

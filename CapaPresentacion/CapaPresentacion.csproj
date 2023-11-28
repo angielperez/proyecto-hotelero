@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AA2DB9D2-191B-485A-A864-CE8AEB5DFE10}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GUI - FACTURACIONES\Gestionar_Factura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI - FACTURACIONES\Gestionar_Factura.Designer.cs">
+      <DependentUpon>Gestionar_Factura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI - TIPO DE HABITACION\Crear_TipoHabitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI - TIPO DE HABITACION\Crear_TipoHabitacion.Designer.cs">
+      <DependentUpon>Crear_TipoHabitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI - TIPO DE HABITACION\Gestionar_TipoHabitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI - TIPO DE HABITACION\Gestionar_TipoHabitacion.Designer.cs">
+      <DependentUpon>Gestionar_TipoHabitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI-USUARIOS\Crear_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI-USUARIOS\Crear_Usuario.Designer.cs">
+      <DependentUpon>Crear_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI - PRODUCTOS\Gestionar_Productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI - PRODUCTOS\Gestionar_Productos.Designer.cs">
+      <DependentUpon>Gestionar_Productos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI-USUARIOS\Gestionar_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI-USUARIOS\Gestionar_Usuario.Designer.cs">
+      <DependentUpon>Gestionar_Usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INFORMES\Informe_Inventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INFORMES\Informe_Inventario.Designer.cs">
+      <DependentUpon>Informe_Inventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI - FACTURACIONES\Crear_Factura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI - FACTURACIONES\Crear_Factura.Designer.cs">
+      <DependentUpon>Crear_Factura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI - HABITACIONES\Gestionar_Habitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI - HABITACIONES\Gestionar_Habitacion.Designer.cs">
+      <DependentUpon>Gestionar_Habitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI - HABITACIONES\Crear_Habitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI - HABITACIONES\Crear_Habitacion.Designer.cs">
+      <DependentUpon>Crear_Habitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI - PRODUCTOS\Crear_Productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI - PRODUCTOS\Crear_Productos.Designer.cs">
+      <DependentUpon>Crear_Productos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI - RESERVAS\Gestionar_Reservacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI - RESERVAS\Gestionar_Reservacion.Designer.cs">
+      <DependentUpon>Gestionar_Reservacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI - RESERVAS\Crear_Reservacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI - RESERVAS\Crear_Reservacion.Designer.cs">
+      <DependentUpon>Crear_Reservacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INFORMES\Informe_Facturacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INFORMES\Informe_Facturacion.Designer.cs">
+      <DependentUpon>Informe_Facturacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INFORMES\Informe_Ocupacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INFORMES\Informe_Ocupacion.Designer.cs">
+      <DependentUpon>Informe_Ocupacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INFORMES\Informe_Reserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INFORMES\Informe_Reserva.Designer.cs">
+      <DependentUpon>Informe_Reserva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI - FACTURACIONES\Gestionar_Factura.resx">
+      <DependentUpon>Gestionar_Factura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI - PRODUCTOS\Crear_Productos.resx">
+      <DependentUpon>Crear_Productos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI - PRODUCTOS\Gestionar_Productos.resx">
+      <DependentUpon>Gestionar_Productos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI - TIPO DE HABITACION\Crear_TipoHabitacion.resx">
+      <DependentUpon>Crear_TipoHabitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI - TIPO DE HABITACION\Gestionar_TipoHabitacion.resx">
+      <DependentUpon>Gestionar_TipoHabitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI-USUARIOS\Crear_Usuario.resx">
+      <DependentUpon>Crear_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI-USUARIOS\Gestionar_Usuario.resx">
+      <DependentUpon>Gestionar_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INFORMES\Informe_Inventario.resx">
+      <DependentUpon>Informe_Inventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INFORMES\Informe_Reserva.resx">
+      <DependentUpon>Informe_Reserva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI - FACTURACIONES\Crear_Factura.resx">
+      <DependentUpon>Crear_Factura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI - HABITACIONES\Gestionar_Habitacion.resx">
+      <DependentUpon>Gestionar_Habitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI - HABITACIONES\Crear_Habitacion.resx">
+      <DependentUpon>Crear_Habitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI - RESERVAS\Gestionar_Reservacion.resx">
+      <DependentUpon>Gestionar_Reservacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI - RESERVAS\Crear_Reservacion.resx">
+      <DependentUpon>Crear_Reservacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INFORMES\Informe_Facturacion.resx">
+      <DependentUpon>Informe_Facturacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INFORMES\Informe_Ocupacion.resx">
+      <DependentUpon>Informe_Ocupacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidades\CapaEntidades.csproj">
+      <Project>{0115f011-5b5e-4d01-971a-a1682d77c128}</Project>
+      <Name>CapaEntidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaLogica\CapaLogica.csproj">
+      <Project>{1550715f-7875-48ba-9ef4-3b383d641525}</Project>
+      <Name>CapaLogica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
